@@ -1,0 +1,32 @@
+codigo fluidico -   1min para lembrar - vale 3 pontos
+codigo com consulta - 2 min consulta  - vale 2 pontos
+codigo passando do tempo da consulta  - vale 1 ponto
+nao debugar                           - vale 0 pontos 
+
+
+importação - 3
+limpeza de valores nulos / duplicados = 2
+#agrupar colunas em ordem crescente e decrescente = 1
+renomear colunas = 2
+
+
+
+
+
+
+
+
+PERGUNTAS - planilha POKEMON
+
+Claro, eu posso ajudar a fazer algumas perguntas para praticar análise de dados na sua planilha de dados de Pokémon. Aqui estão algumas sugestões:
+
+Qual o Pokémon com o maior ataque?
+Qual o Pokémon com a maior velocidade de ataque?
+Qual o Pokémon com a maior defesa?
+Existe uma relação entre ataque e defesa?
+Existe uma relação entre ataque e velocidade de ataque?
+Qual o Pokémon com o equilíbrio ideal entre ataque, defesa e velocidade de ataque?
+Qual é a média de ataque, defesa e velocidade de ataque entre todos os Pokémons?
+Qual é a mediana de ataque, defesa e velocidade de ataque entre todos os Pokémons?
+Qual é a distribuição dos dados para ataque, defesa e velocidade de ataque?
+Existe algum Pokémon com valores extremos para ataque, defesa e velocidade de ataque?
